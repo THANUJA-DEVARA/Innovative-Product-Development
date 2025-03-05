@@ -1,0 +1,13 @@
+EXISTING SYSTEM
+-Traditional monitoring methods can not collect forest fire video information in real time and effectively. 
+-In previous days we recognize the forest fire by the images. 
+-If there is fire then they will clarify that there is a forest fire. 
+-There is no other resources for recognizing it. This is less efficiency compared to the proposed system.
+
+PROPOSED SYSTEM
+-The proposed system aims to develop an efficient, automated method for detecting forest fires using video images captured by the Unmanned Aerial Vechiles (UAVs). 
+-The system integrates real-time video analysis, computer vision, and machine learning algorithms to accurately identify signs of forest fires.
+-The eight-rotor aircraft is driven by eight independent motors in which the adjacent motors rotate in the opposite direction. 
+-The aircraft can control six freedom degrees of aircraft by controlling the rotational speed of eight rotors. 
+-This video is turned into the images and the images converted into the frames. 
+-In addition, there are influential factors such as foggy captured during morning.
